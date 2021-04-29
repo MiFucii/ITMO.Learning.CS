@@ -3,7 +3,7 @@
 
 namespace Exercise1
 {
-    class Program
+    class Enum
     {
         public enum AccountType { Cheking, Deposit = 1000, Withdraw = 500}
 

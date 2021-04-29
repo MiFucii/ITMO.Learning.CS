@@ -14,7 +14,7 @@ namespace Exercise2
         public AccountType accType;
 
     }
-    class Program
+    class EnumStruct
     {
         static void Main(string[] args)
         {

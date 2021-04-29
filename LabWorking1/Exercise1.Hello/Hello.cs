@@ -3,7 +3,7 @@
 
 namespace LabWorking1
 {
-    class Program
+    class Hello
     {
         static void Main(string[] args)
         {
