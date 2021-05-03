@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.EnumStruct", "Lab
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking3", "LabWorking3", "{89CF97E8-31CE-4682-A8D4-B234C45428FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.WhatDay1", "Exercise1\Exercise1.WhatDay1.csproj", "{F8AF10C5-146B-4D8B-B348-7E6D79844882}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.WhatDay1", "LabWorking3\Exercise1\Exercise1.WhatDay1.csproj", "{F8AF10C5-146B-4D8B-B348-7E6D79844882}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
