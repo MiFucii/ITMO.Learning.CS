@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking1", "LabWorking1"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking2", "LabWorking2", "{984CC5B9-B62F-458B-90E1-59A742CE29C3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking3", "LabWorking3", "{89CF97E8-31CE-4682-A8D4-B234C45428FA}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.Hello", "LabWorking1\Exercise1.Hello\Exercise1.Hello.csproj", "{25764008-0B31-4288-B4FA-7C5E34890B0A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4.TryCatch", "LabWorking1\Exercise4.TryCatch\Exercise4.TryCatch.csproj", "{026A14E6-B8F9-48B7-889A-56D0B330B56A}"
@@ -15,9 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.Enum", "LabWorkin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2.EnumStruct", "LabWorking2\Exercise2.EnumStruct\Exercise2.EnumStruct.csproj", "{D4FAEB83-B4F9-457D-9570-E16A828B6BCC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LabWorking3", "LabWorking3", "{89CF97E8-31CE-4682-A8D4-B234C45428FA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.WhatDay1", "LabWorking3\Exercise1\Exercise1.WhatDay1.csproj", "{F8AF10C5-146B-4D8B-B348-7E6D79844882}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1.WhatDay1", "LabWorking3\Exercise1.WhatDay1\Exercise1.WhatDay1.csproj", "{F8AF10C5-146B-4D8B-B348-7E6D79844882}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
